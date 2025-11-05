@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ip_tracking',
-    'ratelimit',
+    'django_ratelimit',
 ]
 
 MIDDLEWARE = [
